@@ -60,7 +60,7 @@ a.contact:hover {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: 50%;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -145,8 +145,8 @@ a.contact:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
-  align-items: center;
-  padding: 100px;
+  align-items:flex-end;
+  padding: 80px;
   line-height: 1.6;
   font-size: 20px;
   color: hsl(167, 40%, 24%);
@@ -156,7 +156,8 @@ a.contact:hover {
 .graphics h3,
 .photography h3 {
   font-size: 32px;
-  margin-top: 30px;
+  align-self: center;
+  /* margin-top: 30px; */
   font-family: Fraunces;
   margin-bottom: 20px;
 }
@@ -167,7 +168,7 @@ a.contact:hover {
   display: flex;
   flex-direction: column;
   justify-content: end;
-  align-items: center;
+  align-items: flex-end;
   padding: 100px;
   line-height: 1.6;
   font-size: 20px;
@@ -303,12 +304,18 @@ footer a {
     width: 100%;
   }
 
-  .content,
+
   .graphics,
   .photography {
     padding: 40px;
+    align-items: end;
+    text-align: center;
+  }
+
+  .content {
     align-items: center;
     text-align: center;
+    padding: 40px;
   }
 
   .graphics,
