@@ -9,7 +9,7 @@ This is my solution to the [Sunnyside agency landing page challenge on Frontend 
 ### Links
 
 - Solution URL: [Check solution](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef/hub/sunnyside-agency-landing-page-7E06SDEX1a)
-- Live Site URL: [Visit live site](https://sunnysidetheface.nettlify.app)
+- Live Site URL: [Visit live site](https://sunnysidetheface.netlify.app)
 
 ### Built with
 
@@ -20,5 +20,5 @@ This is my solution to the [Sunnyside agency landing page challenge on Frontend 
 ## Author
 
 - Portfolio - [Ezekiel The Face](https://thefacecodes.web.app)
-- Frontend Mentor - [@iamtheface](https://www.frontendmentor.io/profile/iamtheface)
+- Frontend Mentor - [@iamtheface](https://www.frontendmentor.io/profile/thefacecodes)
 - Twitter - [@thefacecodes](https://www.twitter.com/thefacecodes)
